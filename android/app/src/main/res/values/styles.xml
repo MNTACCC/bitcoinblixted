@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <!-- style name="AppTheme" parent="Theme.AppCompat.NoActionBar">-->
+    <!-- Blixt: --><style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:editTextBackground">@drawable/rn_edit_text_material</item>
+
+        <!-- Blixt -->
+        <item name="android:navigationBarColor">@color/dark</item>
+        <item name="android:windowBackground">@color/dark</item>
+        <item name="android:statusBarColor">@color/dark</item>
+        <item name="android:colorAccent">@color/primary</item>
+        <item name="android:colorPrimary">@color/primary</item>
+        <item name="android:textColor">@color/light</item>
+        <item name="android:textColorPrimary">@color/light</item>
+        <item name="android:textColorSecondary">@color/light</item>
+        <item name="android:scrollbarThumbVertical">@color/gray</item>
+    </style>
+
+</resources>
